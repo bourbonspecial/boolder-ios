@@ -37,7 +37,8 @@ struct ProblemInfoView: View {
                     ProblemCircleView(problem: problem)
                 }
                 
-                Text(problem.localizedName)
+                // French climbing terms in the name can be tapped for a translation
+                GlossaryText(problem.localizedName)
                     .font(titleFont)
                     .fontWeight(.semibold)
                     .foregroundColor(.primary)
