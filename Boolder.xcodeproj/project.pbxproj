@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA902A221F95C4C521D316B1 /* GlossaryText.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DC72BF0DFB272823D12FAB /* GlossaryText.swift */; };
+		828C384167E45B1DE1F96EAD /* GlossaryText.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DC72BF0DFB272823D12FAB /* GlossaryText.swift */; };
+		3D433FE5261C69ACFFFA910F /* glossary.json in Resources */ = {isa = PBXBuildFile; fileRef = 8CF1652E873F3310A5CD77CC /* glossary.json */; };
+		44C51938207AD5ED39BDA34E /* glossary.json in Resources */ = {isa = PBXBuildFile; fileRef = 8CF1652E873F3310A5CD77CC /* glossary.json */; };
+		B380E1ECDAF6B0B755B3B6B8 /* ClimbingGlossary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0469AF50C35B64015F57565B /* ClimbingGlossary.swift */; };
+		E9449621D2814B623193EC5A /* ClimbingGlossary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0469AF50C35B64015F57565B /* ClimbingGlossary.swift */; };
 		030738992F1BD3960034B178 /* SegmentType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030738982F1BD3960034B178 /* SegmentType.swift */; };
 		0307389A2F1BD3960034B178 /* SegmentType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030738982F1BD3960034B178 /* SegmentType.swift */; };
 		030A0B3C2BEB852800F4E370 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 030A0B3B2BEB852800F4E370 /* PrivacyInfo.xcprivacy */; };
@@ -228,6 +234,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D0DC72BF0DFB272823D12FAB /* GlossaryText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlossaryText.swift; sourceTree = "<group>"; };
+		8CF1652E873F3310A5CD77CC /* glossary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = glossary.json; sourceTree = "<group>"; };
+		0469AF50C35B64015F57565B /* ClimbingGlossary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingGlossary.swift; sourceTree = "<group>"; };
 		030738982F1BD3960034B178 /* SegmentType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentType.swift; sourceTree = "<group>"; };
 		030A0B3B2BEB852800F4E370 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		030A0B3B2BEB852800F4E371 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
@@ -575,6 +584,8 @@
 		37A8C808245326F200DC161F /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				8CF1652E873F3310A5CD77CC /* glossary.json */,
+				0469AF50C35B64015F57565B /* ClimbingGlossary.swift */,
 				37BCA98524670DC000D56252 /* Problem.swift */,
 				033F70D62919535A000DD3F4 /* Area.swift */,
 				038F7F562C3A8D3700AE7028 /* Cluster.swift */,
@@ -616,6 +627,7 @@
 		37F12D862456D50E0036E3E3 /* Problem details */ = {
 			isa = PBXGroup;
 			children = (
+				D0DC72BF0DFB272823D12FAB /* GlossaryText.swift */,
 				37638B8524546D9800C5CD82 /* ProblemDetailsView.swift */,
 				03638D172F196CD4008A6EB8 /* ProblemActionButtonsView.swift */,
 				03638D112F196CBA008A6EB8 /* ProblemInfoView.swift */,
@@ -720,6 +732,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44C51938207AD5ED39BDA34E /* glossary.json in Resources */,
 				03A8FF28304C3B020070FCEB /* boolder.db in Resources */,
 				03F75D602B44547C002227EE /* (null) in Resources */,
 				030A0B3D2BEB852800F4E370 /* PrivacyInfo.xcprivacy in Resources */,
@@ -734,6 +747,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D433FE5261C69ACFFFA910F /* glossary.json in Resources */,
 				03A8FF29304C3B020070FCEB /* boolder.db in Resources */,
 				03F75D5F2B44547C002227EE /* (null) in Resources */,
 				030A0B3C2BEB852800F4E370 /* PrivacyInfo.xcprivacy in Resources */,
@@ -794,6 +808,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				828C384167E45B1DE1F96EAD /* GlossaryText.swift in Sources */,
+				E9449621D2814B623193EC5A /* ClimbingGlossary.swift in Sources */,
 				03D199192C556B550082B56C /* DownloadTip.swift in Sources */,
 				031A4CAC296B0A74002CBF52 /* PoiActionSheet.swift in Sources */,
 				37DE481125AF9AC80052428E /* TestColorView.swift in Sources */,
@@ -901,6 +917,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA902A221F95C4C521D316B1 /* GlossaryText.swift in Sources */,
+				B380E1ECDAF6B0B755B3B6B8 /* ClimbingGlossary.swift in Sources */,
 				038C2EF129201152006581CD /* MapContainerView.swift in Sources */,
 				37DE480E25AF9AB60052428E /* TestColorView.swift in Sources */,
 				0314FFDF295054C500B7E249 /* AreaView.swift in Sources */,

@@ -1,0 +1,728 @@
+{
+  "_comment": "French climbing terms found in problem names, explained to non French speakers. Shared as-is between boolder-android and boolder-ios. term: lowercase French word or phrase, matched as whole words, case-insensitively, longest first.",
+  "version": 1,
+  "terms": [
+    {
+      "term": "assis",
+      "category": "variant",
+      "en": {
+        "translation": "sit start",
+        "explanation": "Start sitting on the ground."
+      }
+    },
+    {
+      "term": "debout",
+      "category": "variant",
+      "en": {
+        "translation": "stand start",
+        "explanation": "Start standing, usually from holds a sit start would begin under."
+      }
+    },
+    {
+      "term": "accroupi",
+      "category": "variant",
+      "en": {
+        "translation": "crouching start",
+        "explanation": "Start squatting, between a sit and a stand start."
+      }
+    },
+    {
+      "term": "départ sauté",
+      "category": "variant",
+      "en": {
+        "translation": "jump start",
+        "explanation": "The first hold is reached by jumping from the ground."
+      }
+    },
+    {
+      "term": "départ bas",
+      "category": "variant",
+      "en": {
+        "translation": "low start",
+        "explanation": "Starts lower down than the original problem."
+      }
+    },
+    {
+      "term": "du bas",
+      "category": "variant",
+      "en": {
+        "translation": "from the bottom",
+        "explanation": "Starts lower down than the original problem."
+      }
+    },
+    {
+      "term": "par le bas",
+      "category": "variant",
+      "en": {
+        "translation": "from the bottom",
+        "explanation": "Starts lower down than the original problem."
+      }
+    },
+    {
+      "term": "par le haut",
+      "category": "variant",
+      "en": {
+        "translation": "from the top",
+        "explanation": "Takes a higher line or finish."
+      }
+    },
+    {
+      "term": "du fond",
+      "category": "variant",
+      "en": {
+        "translation": "from the back",
+        "explanation": "Starts deeper in, e.g. at the back of a roof or cave."
+      }
+    },
+    {
+      "term": "du sol",
+      "category": "variant",
+      "en": {
+        "translation": "from the ground",
+        "explanation": "Starts with nothing but the ground under you, no step or block."
+      }
+    },
+    {
+      "term": "direct",
+      "category": "variant",
+      "en": {
+        "translation": "direct",
+        "explanation": "Goes straight up, skipping the usual detour or easier holds."
+      }
+    },
+    {
+      "term": "directe",
+      "category": "variant",
+      "en": {
+        "translation": "direct",
+        "explanation": "Goes straight up, skipping the usual detour or easier holds."
+      }
+    },
+    {
+      "term": "droite",
+      "category": "variant",
+      "en": {
+        "translation": "right"
+      }
+    },
+    {
+      "term": "droit",
+      "category": "variant",
+      "en": {
+        "translation": "right / straight"
+      }
+    },
+    {
+      "term": "gauche",
+      "category": "variant",
+      "en": {
+        "translation": "left"
+      }
+    },
+    {
+      "term": "à droite",
+      "category": "variant",
+      "en": {
+        "translation": "on the right"
+      }
+    },
+    {
+      "term": "à gauche",
+      "category": "variant",
+      "en": {
+        "translation": "on the left"
+      }
+    },
+    {
+      "term": "en traversée",
+      "category": "variant",
+      "en": {
+        "translation": "as a traverse",
+        "explanation": "Moves sideways along the boulder before (or instead of) topping out."
+      }
+    },
+    {
+      "term": "traversée",
+      "category": "variant",
+      "en": {
+        "translation": "traverse",
+        "explanation": "A problem that moves sideways along the boulder."
+      }
+    },
+    {
+      "term": "retour",
+      "category": "variant",
+      "en": {
+        "translation": "return",
+        "explanation": "The traverse climbed in the opposite direction."
+      }
+    },
+    {
+      "term": "aller-retour",
+      "category": "variant",
+      "en": {
+        "translation": "there and back",
+        "explanation": "Climb the traverse one way, then reverse it back to the start."
+      }
+    },
+    {
+      "term": "retour-aller",
+      "category": "variant",
+      "en": {
+        "translation": "back and there",
+        "explanation": "Climb the traverse in reverse, then back the original way."
+      }
+    },
+    {
+      "term": "en boucle",
+      "category": "variant",
+      "en": {
+        "translation": "loop",
+        "explanation": "A traverse that goes round the boulder back to its start."
+      }
+    },
+    {
+      "term": "raccourci",
+      "category": "variant",
+      "en": {
+        "translation": "shortened",
+        "explanation": "A shorter version of the original problem."
+      }
+    },
+    {
+      "term": "rallongé",
+      "category": "variant",
+      "en": {
+        "translation": "extended",
+        "explanation": "A longer version: an earlier start or a later finish."
+      }
+    },
+    {
+      "term": "rallonge",
+      "category": "variant",
+      "en": {
+        "translation": "extension",
+        "explanation": "A longer version: an earlier start or a later finish."
+      }
+    },
+    {
+      "term": "prolongé",
+      "category": "variant",
+      "en": {
+        "translation": "extended",
+        "explanation": "A longer version, usually continuing past the original finish."
+      }
+    },
+    {
+      "term": "intégral",
+      "category": "variant",
+      "en": {
+        "translation": "full version",
+        "explanation": "The whole line, linked from start to finish."
+      }
+    },
+    {
+      "term": "intégrale",
+      "category": "variant",
+      "en": {
+        "translation": "full version",
+        "explanation": "The whole line, linked from start to finish."
+      }
+    },
+    {
+      "term": "convention",
+      "category": "variant",
+      "en": {
+        "translation": "convention",
+        "explanation": "An agreed restriction, e.g. a hold or arête that is off limits."
+      }
+    },
+    {
+      "term": "sans convention",
+      "category": "variant",
+      "en": {
+        "translation": "no convention",
+        "explanation": "The usual restriction does not apply: anything goes."
+      }
+    },
+    {
+      "term": "sans",
+      "category": "variant",
+      "en": {
+        "translation": "without",
+        "explanation": "What follows is off limits."
+      }
+    },
+    {
+      "term": "avec",
+      "category": "variant",
+      "en": {
+        "translation": "with",
+        "explanation": "What follows may be used."
+      }
+    },
+    {
+      "term": "sans nom",
+      "category": "variant",
+      "en": {
+        "translation": "nameless"
+      }
+    },
+    {
+      "term": "bis",
+      "category": "variant",
+      "en": {
+        "translation": "second version",
+        "explanation": "A variant of the problem with the same name."
+      }
+    },
+    {
+      "term": "ter",
+      "category": "variant",
+      "en": {
+        "translation": "third version",
+        "explanation": "A second variant of the problem with the same name."
+      }
+    },
+    {
+      "term": "variante",
+      "category": "variant",
+      "en": {
+        "translation": "variant"
+      }
+    },
+    {
+      "term": "sortie",
+      "category": "variant",
+      "en": {
+        "translation": "exit / top-out",
+        "explanation": "How the problem finishes."
+      }
+    },
+    {
+      "term": "départ",
+      "category": "variant",
+      "en": {
+        "translation": "start"
+      }
+    },
+    {
+      "term": "bas",
+      "category": "variant",
+      "en": {
+        "translation": "low"
+      }
+    },
+    {
+      "term": "basse",
+      "category": "variant",
+      "en": {
+        "translation": "low"
+      }
+    },
+    {
+      "term": "haut",
+      "category": "variant",
+      "en": {
+        "translation": "high"
+      }
+    },
+    {
+      "term": "haute",
+      "category": "variant",
+      "en": {
+        "translation": "high"
+      }
+    },
+    {
+      "term": "inversée",
+      "category": "variant",
+      "en": {
+        "translation": "reversed"
+      }
+    },
+    {
+      "term": "diagonale",
+      "category": "variant",
+      "en": {
+        "translation": "diagonal"
+      }
+    },
+    {
+      "term": "dalle",
+      "category": "feature",
+      "en": {
+        "translation": "slab",
+        "explanation": "Less than vertical rock, climbed on friction and balance."
+      }
+    },
+    {
+      "term": "arête",
+      "category": "feature",
+      "en": {
+        "translation": "arête",
+        "explanation": "An outside edge of the boulder."
+      }
+    },
+    {
+      "term": "angle",
+      "category": "feature",
+      "en": {
+        "translation": "corner",
+        "explanation": "An outside corner of the boulder."
+      }
+    },
+    {
+      "term": "fissure",
+      "category": "feature",
+      "en": {
+        "translation": "crack"
+      }
+    },
+    {
+      "term": "dièdre",
+      "category": "feature",
+      "en": {
+        "translation": "dihedral",
+        "explanation": "An inside corner, like an open book."
+      }
+    },
+    {
+      "term": "surplomb",
+      "category": "feature",
+      "en": {
+        "translation": "overhang"
+      }
+    },
+    {
+      "term": "dévers",
+      "category": "feature",
+      "en": {
+        "translation": "overhanging wall",
+        "explanation": "A wall leaning out past vertical."
+      }
+    },
+    {
+      "term": "toit",
+      "category": "feature",
+      "en": {
+        "translation": "roof",
+        "explanation": "A near horizontal overhang."
+      }
+    },
+    {
+      "term": "proue",
+      "category": "feature",
+      "en": {
+        "translation": "prow",
+        "explanation": "A jutting, overhanging edge like the bow of a ship."
+      }
+    },
+    {
+      "term": "étrave",
+      "category": "feature",
+      "en": {
+        "translation": "prow",
+        "explanation": "A sharp prow, like the bow of a ship."
+      }
+    },
+    {
+      "term": "pilier",
+      "category": "feature",
+      "en": {
+        "translation": "pillar"
+      }
+    },
+    {
+      "term": "mur",
+      "category": "feature",
+      "en": {
+        "translation": "wall"
+      }
+    },
+    {
+      "term": "rampe",
+      "category": "feature",
+      "en": {
+        "translation": "ramp",
+        "explanation": "A rising diagonal ledge or edge."
+      }
+    },
+    {
+      "term": "goulotte",
+      "category": "feature",
+      "en": {
+        "translation": "runnel",
+        "explanation": "A shallow water-worn groove."
+      }
+    },
+    {
+      "term": "cheminée",
+      "category": "feature",
+      "en": {
+        "translation": "chimney",
+        "explanation": "A crack wide enough to fit your body in."
+      }
+    },
+    {
+      "term": "vire",
+      "category": "feature",
+      "en": {
+        "translation": "ledge"
+      }
+    },
+    {
+      "term": "nez",
+      "category": "feature",
+      "en": {
+        "translation": "nose",
+        "explanation": "A small jutting feature."
+      }
+    },
+    {
+      "term": "bombé",
+      "category": "feature",
+      "en": {
+        "translation": "bulge"
+      }
+    },
+    {
+      "term": "écaille",
+      "category": "feature",
+      "en": {
+        "translation": "flake"
+      }
+    },
+    {
+      "term": "colonnette",
+      "category": "feature",
+      "en": {
+        "translation": "rib",
+        "explanation": "A thin vertical pillar of rock."
+      }
+    },
+    {
+      "term": "réta",
+      "category": "move",
+      "en": {
+        "translation": "mantel",
+        "explanation": "Short for rétablissement: pressing down on a ledge to get your feet onto it."
+      }
+    },
+    {
+      "term": "rétablissement",
+      "category": "move",
+      "en": {
+        "translation": "mantel",
+        "explanation": "Pressing down on a ledge to get your feet onto it."
+      }
+    },
+    {
+      "term": "rétab",
+      "category": "move",
+      "en": {
+        "translation": "mantel",
+        "explanation": "Short for rétablissement: pressing down on a ledge to get your feet onto it."
+      }
+    },
+    {
+      "term": "gratton",
+      "category": "move",
+      "en": {
+        "translation": "crystal",
+        "explanation": "A tiny sharp crystal used as a hold."
+      }
+    },
+    {
+      "term": "grattons",
+      "category": "move",
+      "en": {
+        "translation": "crystals",
+        "explanation": "Tiny sharp crystals used as holds."
+      }
+    },
+    {
+      "term": "plat",
+      "category": "move",
+      "en": {
+        "translation": "sloper",
+        "explanation": "A rounded hold with no edge to pull on."
+      }
+    },
+    {
+      "term": "plats",
+      "category": "move",
+      "en": {
+        "translation": "slopers",
+        "explanation": "Rounded holds with no edge to pull on."
+      }
+    },
+    {
+      "term": "pince",
+      "category": "move",
+      "en": {
+        "translation": "pinch",
+        "explanation": "A hold squeezed between thumb and fingers."
+      }
+    },
+    {
+      "term": "réglette",
+      "category": "move",
+      "en": {
+        "translation": "crimp",
+        "explanation": "A thin edge held on the fingertips."
+      }
+    },
+    {
+      "term": "baquet",
+      "category": "move",
+      "en": {
+        "translation": "jug",
+        "explanation": "A big, positive hold."
+      }
+    },
+    {
+      "term": "bac",
+      "category": "move",
+      "en": {
+        "translation": "jug",
+        "explanation": "A big, positive hold."
+      }
+    },
+    {
+      "term": "mono",
+      "category": "move",
+      "en": {
+        "translation": "one-finger pocket"
+      }
+    },
+    {
+      "term": "trou",
+      "category": "move",
+      "en": {
+        "translation": "pocket / hole"
+      }
+    },
+    {
+      "term": "trous",
+      "category": "move",
+      "en": {
+        "translation": "pockets / holes"
+      }
+    },
+    {
+      "term": "prise",
+      "category": "move",
+      "en": {
+        "translation": "hold"
+      }
+    },
+    {
+      "term": "prises",
+      "category": "move",
+      "en": {
+        "translation": "holds"
+      }
+    },
+    {
+      "term": "prise taillée",
+      "category": "move",
+      "en": {
+        "translation": "chipped hold",
+        "explanation": "A hold carved into the rock, usually off limits."
+      }
+    },
+    {
+      "term": "prises taillées",
+      "category": "move",
+      "en": {
+        "translation": "chipped holds",
+        "explanation": "Holds carved into the rock, usually off limits."
+      }
+    },
+    {
+      "term": "jeté",
+      "category": "move",
+      "en": {
+        "translation": "dyno",
+        "explanation": "A jump between holds."
+      }
+    },
+    {
+      "term": "talon",
+      "category": "move",
+      "en": {
+        "translation": "heel hook"
+      }
+    },
+    {
+      "term": "crochet",
+      "category": "move",
+      "en": {
+        "translation": "hook",
+        "explanation": "A heel or toe hook."
+      }
+    },
+    {
+      "term": "genou",
+      "category": "move",
+      "en": {
+        "translation": "knee",
+        "explanation": "Often a knee bar."
+      }
+    },
+    {
+      "term": "lolotte",
+      "category": "move",
+      "en": {
+        "translation": "drop knee",
+        "explanation": "A twisted-knee foot position, hip turned into the wall."
+      }
+    },
+    {
+      "term": "dülfer",
+      "category": "move",
+      "en": {
+        "translation": "layback",
+        "explanation": "Pulling sideways on an edge while pushing with the feet."
+      }
+    },
+    {
+      "term": "opposition",
+      "category": "move",
+      "en": {
+        "translation": "opposition",
+        "explanation": "Pushing or pulling in opposite directions, e.g. compression."
+      }
+    },
+    {
+      "term": "compression",
+      "category": "move",
+      "en": {
+        "translation": "compression",
+        "explanation": "Squeezing two features towards each other."
+      }
+    },
+    {
+      "term": "main gauche",
+      "category": "move",
+      "en": {
+        "translation": "left hand"
+      }
+    },
+    {
+      "term": "main droite",
+      "category": "move",
+      "en": {
+        "translation": "right hand"
+      }
+    },
+    {
+      "term": "pieds",
+      "category": "move",
+      "en": {
+        "translation": "feet"
+      }
+    }
+  ]
+}
